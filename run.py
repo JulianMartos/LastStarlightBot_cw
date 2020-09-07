@@ -4,9 +4,6 @@ from data import location_pattern
 import json
 
 
-api_id = 1267461
-api_hash = '168acb04f099beb551aff4069d029320'
-bot_token = '1288140554:AAFRTkLNEjBYnANATCDeAgxPDkyTwS_6u2Y'
 
 #local variables
 locations_dic= {}
